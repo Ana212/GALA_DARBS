@@ -1,0 +1,21 @@
+body {
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    }
+
+    .navbar {
+      color: olivedrab;
+    }
+
+    a {
+        color: olivedrab!important;
+    }
+
+.foo{
+overflow: hidden;
+    }
+.zoo{
+    float: left;
+    margin: right 10px
+}
+    
